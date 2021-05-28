@@ -1,6 +1,6 @@
 # Tweet Sentiment Analysis:
-data resource: https://www.kaggle.com/kazanova/sentiment140
-This data set contains 1.6 million tweets texts extracted using the twitter API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment. Goals:
+- data resource: https://www.kaggle.com/kazanova/sentiment140
+- This data set contains 1.6 million tweets texts extracted using the twitter API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment. Goals:
 Design a NLP model that is able to predict the polarity (negative or positive) of the tweet. 
 
 
